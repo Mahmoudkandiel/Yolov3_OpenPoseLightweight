@@ -2,8 +2,9 @@
 
 This repository implements a system for detecting violent behavior in video footage using neural networks and pose estimation. The project combines YOLOv3 for object detection and OpenPose for human pose estimation to analyze actions in real-time or recorded video streams.
 
+![Demo](https://github.com/user-attachments/assets/8b27306f-289a-467b-ab5a-cbd39aa09bf0)
 
-![Demo](https://github.com/user-attachments/assets/1189b6fc-d4b3-4834-9d84-a1bd5ad11970)
+
 
 ## Features
 - **Object Detection**: YOLOv3 is used to detect pedestrians in video frames.
